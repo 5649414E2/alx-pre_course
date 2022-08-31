@@ -1,1 +1,8 @@
-.
+.root@hex:~# ls -l /root/0x01_emacs/opening
+-rw-r--r-- 1 root root 9 Nov 11 04:34 /root/0x01_emacs/opening
+root@hex:~#
+/root/0x01_emacs/saving
+/root/0x01_emacs/cutting
+/root/0x01_emacs/pasting
+/root/0x01_emacs/searching
+/root/0x01_emacs/quitting
